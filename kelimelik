@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kelimeliğimsi</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <style> 
+    div.kelimelikyildiz  {
+      border-radius: 25px;
+      background: #FFE57F;
+      width: 70px;
+      height: 70px;  
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center;
+      line-height: 1.9;
+      vertical-align: middle;
+      color: #FFAB00;
+     }
+    div.kelimelik  {
+      border-radius: 25px;
+      background: #DCDCDC;
+      width: 70px;
+      height: 70px;
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center;
+      line-height: 2.0;
+      vertical-align: middle;
+    }
+    body{
+     background:#A9A9A9;
+    }
+    div.h2 {
+      font-size:40px;
+      border-radius: 25px; 
+      background: #B0BEC5;
+      width: 70px;
+      height: 70px;  
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center;
+      line-height: 2.0;
+      vertical-align: middle;
+      color:white;
+    }
+    div.h3 {
+      font-size:40px;
+      border-radius: 25px;
+      background: #D8BFD8	;
+      width: 70px;
+      height: 70px;  
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center;
+      line-height: 2.0;
+      vertical-align: middle;
+      color:white;
+    }
+    div.k2 {
+      font-size:40px;
+      border-radius: 25px;
+      background: #A5D6A7 ;
+      width: 70px;
+      height: 70px;  
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center; 
+      line-height: 2.0;
+      vertical-align: middle;
+      color:white;
+    }
+    div.k3 {
+      font-size:40px;
+      border-radius: 25px;
+      background: #BCAAA4;
+      width: 70px;
+      height: 70px;  
+      border-style: groove;
+      margin:0px 0px 2px 0px;
+      display: inline-block;
+      text-align:center;
+      line-height: 2.0;
+      vertical-align: middle;
+      color:white;
+    }
+    sup{
+      font-size:30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="kelimelikyildiz"><i class="fas fa-star fa-2x"></i><br><i class="fas fa-star fa-2x"></i><i class="fas fa-star fa-2x"></i> </div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="k2"><p>K<sup>2</sup></p></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="k3"><p>K<sup>3</sup></p></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="h2"><p>H<sup>2</sup></p></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="h3"><p>H<sup>3</sup></p></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+  <div class="kelimelik"></div>
+</body>
+</html>
